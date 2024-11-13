@@ -48,7 +48,7 @@ Format and Display Seats
 
 **Parameters:** names_list
 
-**Return:** table
+**Return:** none
 
 **Algorithm:**
 1. Set index = 0
