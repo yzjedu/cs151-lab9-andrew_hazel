@@ -1,5 +1,5 @@
-# Programmers: Andrew Leimbach
-# Course:  CS151, Zalalem Yalew
+# Programmers: Andrew Leimbach, Hazel Osborne
+# Course:  CS151, Zelalem Yalew
 # Due Date: 11/13/24
 # Lab Assignment:  Lab 09
 # Problem Statement: Read in all the attendees and then output the seat assignment.
