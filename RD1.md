@@ -5,7 +5,7 @@ ENCRYPTED:
 * Cnegare Shyy Anzr: Unmry Bfobear
 * Fghqrag VQ: 001551208
 
-Va guvf yno zl cnegare naq V jrer fhccbfrq gb trg cenpgvpr jvgu perngvat shapgvbaf, grfgvat pbqr, reebe purpxvat, naq hgvyvmvat gur znal bgure nfcrpgf bs Clguba jr'ir yrnearq fb sne.
+Va guvf yno zl cnegare naq V jrer fhccbfrq gb cenpgvpr jvgu perngvat shapgvbaf, grfgvat pbqr, reebe purpxvat, naq hgvyvmvat gur znal bgure nfcrpgf bs Clguba jr'ir yrnearq fb sne.
 
 Hfvat jung gur pynff unf yrnearq sebz cerivbhf yrpgherf, zr naq Unmry sbyybjrq gur qrfvta cebprff/fgrcf va svefg haqrefgnaqvat gur ernqzr va vgf shyy, qrirybcvat na nytbevguz, crre erivrjvat gubfr, grfg pnfrf, naq gura qrirybcvat bhe pbqr. Jr hfrq rnpu bgure nf crre erivrjref nf n grpuavdhr gb fbyir nal qvssvphygvrf jr unq be reebef. Xrl pbaprcgf rkcyberq jrer jevgvat shapgvbaf, yvfgf, ybbcf, Obbyrnaf, nf jryy nf reebe purpxvat.
 
