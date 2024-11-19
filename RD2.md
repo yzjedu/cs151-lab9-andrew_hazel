@@ -1,55 +1,54 @@
-ENCRYPTED:
-# Lyzfywncih Xiwogyhn
+# Reflection Document
 
-* Xlcpy Zoff Hugy  : Butyf Imvilhy
-* Julnhyl Zoff Hugy: Uhxlyq Fycgvuwb
-* Mnoxyhn CX: 1930197
-
+* Drive Full Name  : Hazel Osborne
+* Partner Full Name: Andrew Leimbach
+* Student ID: 1930197
 
 
-**Qbun qyly sio mojjimyx ni fyulh/uwwigjfcmb?**
 
-Wlyuny u jlialug nbun lyuxm uff nby unnyhxyym ch u zcfy uhx nbyh ionjonm nby myunm.
+**What were you supposed to learn/accomplish?**
 
-**Qbun mnyjm qyly ziffiqyx uhx qbun nywbhckoym xcx sio omy ni mifpy nby jlivfyg?**
+Create a program that reads all the attendees in a file and then outputs the seats.
 
-Zclmn qy lyux nby lyuxgy zcfy, nbyh qy nufeyx uvion nby bcab fypyf mnyjm qy quhnyx ni lyzuwnil chni zohwncihm. Nbyh qy xcx nby ufailcnbg, uhx wigjfynyx uhx nymnyx nby wixy.
+**What steps were followed and what techniques did you use to solve the problem?**
 
-**Qbun qyly nby Eys wihwyjnm yrjfilyx?**
+First we read the readme file, then we talked about the high level steps we wanted to refactor into functions. Then we did the algorithm, and completed and tested the code.
 
-Fiijm, Zcfy chjon uhx ionjon, mnilcha xunu, jucl jlialuggcha
+**What were the Key concepts explored?**
 
-**Xcx siol lymofnm gunwb qbun sio yrjywnyx ni ayn?**
+Loops, File input and output, storing data, pair programming
 
-Sym.
+**Did your results match what you expected to get?**
 
-**Xcx sio nls omcha pulciom nymn wumym, il yrnlygy nymn wumym?**
+Yes.
 
-Sym. Nbyly cm yllil wbywecha ch jfuwy mi nbun nby omyl gomn yhnyl u zcfy hugy nbun yrcmnm.
+**Did you try using various test cases, or extreme test cases?**
 
-**Qbun wbuffyhaym xcx sio yhwiohnyl?**
+Yes. There is error checking in place so that the user must enter a file name that exists.
 
-Nby ihfs vca wbuffyhay C bux qum uh cmmoy qcnb nby mjuwcha qbyh jlchncha nby hugym.
+**What challenges did you encounter?**
 
-**Biq xcx sio ziffiq nby zclmn 3 lofym iz jlialuggcha?**
+The only big challenge I had was an issue with the spacing when printing the names.
 
-1. Nbche vyzily Jlialuggcha: Qy lyux nby lyux gy zcfy, xcmwommyx bcab-fypyf mnyjm, uhx wigjfynyx iol ufailcnbg vyzily mnulncha ni jlialug.
-2. Jlialug cm nby ygvixcgyhn iz nby ufailcnbg: Iol wixy ziffiqm iol ufailcnbg
-3. Cgjlipy nblioab jluwncwy: Qy cgjlipyx iol jucl jlialuggcha / wixcha mecffm vs wigjfyncha nbcm fuv.
+**How did you follow the first 3 rules of programming?**
 
-**Xcx sio ipylwigy nbyg, uhx biq?**
+1. Think before Programming: We read the read me file, discussed high-level steps, and completed our algorithm before starting to program.
+2. Program is the embodiment of the algorithm: Our code follows our algorithm
+3. Improve through practice: We improved our pair programming / coding skills by completing this lab.
 
-Sym. C wbuhayx nby qus C bux nby jlchn mnunygyhnm uhx ziohx nbyly qum uh ohhywymmuls mjuwy ch ihy iz nbyg 
+**Did you overcome them, and how?**
 
-**Uhs eys nueyuqusm?**
+Yes. I changed the way I had the print statements and found there was an unnecessary space in one of them 
 
-Vs jfuhhcha iol zohwncihm ch u pyls chnyhncihuf qus, qy mupyx u fin iz ncgy ch nby uwnouf jlialuggcha juln. 
+**Any key takeaways?**
 
-**Xi sio nbche sio fyulhyx qbun sio qyly mojjimyx ni fyulh zil nbcm fuv?**
+By planning our functions in a very intentional way, we saved a lot of time in the actual programming part. 
 
-Sym. C zyyf gowb gily wihzcxyhn uvion qilecha qcnb zcfym.
+**Do you think you learned what you were supposed to learn for this lab?**
 
-**Qbun qum cn fcey qilecha qcnb siol julnhyl?**
-Cn qum aiix. By cm pyls yums ni viohwy cxyum izz iz uhx cm aiix ni qile qcnb.
+Yes. I feel much more confident about working with files.
+
+**What was it like working with your partner?**
+It was good. He is very easy to bounce ideas off of and is good to work with.
 
 
